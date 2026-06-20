@@ -1,0 +1,10 @@
+{
+  "name": "quiz-platform-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm run dev --prefix quiz-platform",
+    "build": "npm run build --prefix quiz-platform",
+    "lint": "npm run lint --prefix quiz-platform",
+    "preview": "npm run preview --prefix quiz-platform"
+  }
+}
