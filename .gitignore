@@ -1,0 +1,24 @@
+# Compile/build output
+**/target/
+**/build/
+**/out/
+
+# IDE settings
+.idea/
+*.iml
+*.iws
+*.ipr
+.settings/
+.project
+.classpath
+.factorypath
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary/test files in the subdirectory if they shouldn't be committed
+# online-quiz-platform/test_*.txt
